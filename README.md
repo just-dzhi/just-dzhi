@@ -1,16 +1,23 @@
-## Hi there 👋
+# README
 
-<!--
-**just-dzhi/just-dzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m poking **Frontend & Backend Development**, **Game Development**, and **AI/ML**
 
-Here are some ideas to get you started:
+### Below are some of the tools and technologies I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🖥️ Development
+
+![Development](https://skillicons.dev/icons?i=typescript,javascript,html,css,bots,nodejs,bun,elysia&theme=dark)
+
+### 🎮 Game Development
+
+![Game Development](https://skillicons.dev/icons?i=godot,unity&theme=dark)
+
+### 🧠 AI & Machine Learning
+
+![AI](https://skillicons.dev/icons?i=python,pytorch,anaconda&theme=dark)
+
+### ⚙️ Tools & Platforms
+
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,linux,arch,windows,docker,discord&theme=dark)
